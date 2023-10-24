@@ -65,7 +65,7 @@ $rows = mysqli_num_rows($query);
           </div>
           <hr class="my-4">
           <div class="text-end">
-            <a href="<?php echo $base_url; ?>/peoduct-list.php" class="btn btn-secondary btn-lg" role="button">Back to product</a>
+            <a href="<?php echo $base_url; ?>/product-list.php" class="btn btn-secondary btn-lg" role="button">Back to product</a>
             <button class="btn btn-secondary btn-lg" type="submit">Continue to checkout</button>
           </div>
         </div>
